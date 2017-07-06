@@ -1,0 +1,5 @@
+﻿Generation ended on: 6/7/17 8:18
+
+Random seed at the end of generation is: X=696595195, Y=188665303
+
+Aquest fitxer va ser automàticament generat per FET 5.31.7.

@@ -1,0 +1,10 @@
+﻿Conflictes suaus de H1718_base16050717_06_4.fet
+Generat amb FET 5.31.7 el 6/7/17 8:18
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Llista de conflictes suaus (en ordre decreixent):
+
+
+Final del fitxer.
